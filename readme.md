@@ -51,6 +51,7 @@
 
 ## Derivatives & Synthetics
 
+- [GMX](https://github.com/gmx-io/gmx-interface) - Decentralized Perpetual Exchange
 - [Synthetix](https://github.com/Synthetixio/synthetix-vaults) - Decentralized platform for issuing and trading synthetic assets across multiple asset classes.
 - [Opyn](https://github.com/opynfinance/squeeth-monorepo) - Options trading platform enabling users to hedge, speculate, and manage risk with decentralized options contracts.
 
