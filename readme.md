@@ -95,6 +95,7 @@ Every entry links to a genuinely public, open-source repository containing real 
 ## Asset Management
 
 - [Index Coop](https://github.com/IndexCoop/index-app) - Decentralized crypto index fund interface that provides diversified market exposure through tokenized indices.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contribute
 
